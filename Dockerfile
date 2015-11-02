@@ -1,5 +1,4 @@
-FROM		hauptmedia/java:oracle-java7
-
+FROM		java:openjdk-7u85-jre
 ENV     	DEBIAN_FRONTEND noninteractive
 
 ENV		JMETER_VERSION	2.13
