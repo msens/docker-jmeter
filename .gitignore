@@ -1,2 +1,5 @@
 # Java
 .java
+
+# jmeter test results
+tests/*.jtl
